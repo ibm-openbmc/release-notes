@@ -1,1 +1,1 @@
-# release-notes
+# release-notes for OP940
