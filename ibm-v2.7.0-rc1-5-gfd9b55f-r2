@@ -1,0 +1,19 @@
+Commits...
+openbmc f66c1a1 Enable TFTP updates via Redfish
+openbmc 4635c53 GUI: Turn off Redfish Event Log
+openbmc 583bf3a Merge pull request #1 from geissonator/OP940_RfTftp
+openbmc 83dfede Merge pull request #3 from gtmills/OP940-turn-off-event-log
+openbmc 47896b5 bmcweb branch=OP940 SRCREV bump 85bcb6bc78..751417e3bf
+  bmcweb e025485 Fix Redfish Validator Errors in EventLog
+  bmcweb 751417e Merge pull request #1 from gtmills/OP940-redfish-validator-fix
+openbmc 4f3159f phosphor-user-manager branch=OP940 SRCREV bump 825e6b58a0..c10f815d8d
+  phosphor-user-manager fdfdfa8 Fix: Emit single interface added signal.
+  phosphor-user-manager c10f815 Merge pull request #2 from ratagupt/fix_emit_signal
+openbmc f67185a bmcweb branch=OP940 SRCREV bump 751417e3bf..60c59f6eef
+  bmcweb 73d3510 Fix Regression in PATCH on system node
+  bmcweb 60c59f6 Merge pull request #2 from santoshpuranik/OP940
+Closed issues...
+Insertions and deletions...
+153 insertions
+89 deletions
+
