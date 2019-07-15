@@ -1,0 +1,40 @@
+Commits...
+openbmc 68d91eb phosphor-certificate-manager: srcrev bump 8a09b52a76..cd30c496c8
+  phosphor-certificate-manager ffad1ef Manage certificates created by applications
+  phosphor-certificate-manager cd30c49 Append private key from the system to CA signed certificate
+openbmc fe6b6d1 bmcweb branch=OP940 SRCREV bump 2abcdee8
+  bmcweb 7ab06f4 Move PowerLimit to correct location
+  bmcweb e90c505 Return active bmc fw version
+  bmcweb e2a6d1c Addressed certificate read issue
+  bmcweb 6c915ca Ignored Trust-Chain related errors when validating certificate
+  bmcweb 09c9df2 Redfish: GenerateCSR action for HTTPS certificate
+  bmcweb 480cc83 Redfish: Extend GenerateCSR action for LDAP certificate collection
+  bmcweb c41d250 Redfish: Add TrustStore certificate support
+  bmcweb b5015b5 Fix for download dump file with original file name
+  bmcweb 28c4a83 Add CPU core count property
+  bmcweb 33c28dd Redfish(Authorization): Add the privilege in the user session object.
+  bmcweb 0840ea8 Redfish(Authorization): Map the user role with the Redfish privileges
+  bmcweb d4f3d97 Redfish: Populate the RemoteRoleMapping prop under AccountService schema
+  bmcweb f89b46c Redfish: Add PATCH operation support for RemoteRoleMapping
+  bmcweb 039ac64 Send 200 ok http code in case of partial success
+  bmcweb 2abcdee Return active bmc fw version
+openbmc f645f61 phosphor-user-manager branh=OP940 SRCREV 825e6b58a0
+  phosphor-user-manager 825e6b5 Fix emit interface added signal
+openbmc 90131b8 phosphor-webui branch=OP940 SRCREV bump 15cac146b0
+  phosphor-webui 6e34f9c Create certificate management page
+  phosphor-webui 411cae6 Create csr modal
+  phosphor-webui 40ca217 Enable CA certificate upload
+  phosphor-webui 3031bd5 LDAP configuration and user groups
+  phosphor-webui 15cac14 Update users navigation section
+openbmc fd9b55f bmcweb branch=OP940 SRCREV bump 85bcb6bc78
+  bmcweb ca0b5d4 Redfish(Authorization): Add the privilege in the user session object.
+  bmcweb 35fc296 Redfish(Authorization): Map the user role with the Redfish privileges
+  bmcweb 23ac25c Redfish: Populate the RemoteRoleMapping prop under AccountService schema
+  bmcweb 8e00920 Redfish: Add PATCH operation support for RemoteRoleMapping
+  bmcweb e588ac7 Send 200 ok http code in case of partial success
+  bmcweb 85bcb6b Included sdbusplus/bus/match.hpp to fix compilation error
+Closed issues...
+             openbmc/bmcweb#38 bmc web /redfish/v1/Managers/bmc  Version mismatch
+Insertions and deletions...
+5503 insertions
+971 deletions
