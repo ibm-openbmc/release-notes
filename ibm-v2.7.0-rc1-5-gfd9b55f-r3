@@ -1,0 +1,19 @@
+Commits...
+openbmc 3b029c1 Enable logging option in bmcweb
+openbmc 32dbeef Merge pull request #7 from santoshpuranik/fork_op940
+openbmc 267fcd7 phosphor-networkd SRCREV bump 946d15940b..a2145bf5aa
+  phosphor-networkd 0420c6a build: Apply fixes to accommodate build system updates
+  phosphor-networkd c920bdb neighbor: Refactor out netlink code
+  phosphor-networkd 6ca08d8 types: Remove custom MacAddr type
+  phosphor-networkd f51620d test: Remove unused mock
+  phosphor-networkd 2fd2f7d Network: Remove IP dbus properties update support
+  phosphor-networkd 1137a97 util: Clean up MAC address formatting
+  phosphor-networkd a2145bf vlan: Disable MAC address setting
+openbmc 30ae948 Merge branch 'OP940' of github.com:ibm-openbmc/openbmc into OP940
+openbmc c703f05 Revert "Revert "Accelerator interface for sensorinventory items""
+openbmc 2945e7b Merge pull request #8 from gtmills/OP940-fix-redfish-gpu
+Closed issues...
+Insertions and deletions...
+1184 insertions
+417 deletions
+
