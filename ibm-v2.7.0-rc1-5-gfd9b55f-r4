@@ -1,0 +1,13 @@
+Commits...
+openbmc 4d5bc6d bmcweb branch=OP940 SRCREV bump 60c59f6eef..93bd52ac1b
+  bmcweb 1619f97 REST and Redfish Traffic Logging
+  bmcweb 0a4870f Add user manager dependency and LDAP conf dependency
+  bmcweb 9abf15d Merge pull request #3 from santoshpuranik/op940_fork_op940
+  bmcweb d0721ec Updated UserRoleMap::getUserRole() to call GetUserInfo()
+  bmcweb e2835c6 Merge pull request #6 from ratagupt/bmcweb_service_dependency
+  bmcweb 93bd52a Merge pull request #7 from trajeswaran/sw470128_fix
+Closed issues...
+Insertions and deletions...
+455 insertions
+21 deletions
+
