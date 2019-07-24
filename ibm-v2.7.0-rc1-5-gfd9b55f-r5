@@ -1,0 +1,16 @@
+Commits...
+openbmc 6f13908 openpower-occ-control branch=OP940 SRCREV bump 6d6d1b380a..e768101add
+  openpower-occ-control 82a6ae5 Power cap fixes required for the 5.0 kernel
+  openpower-occ-control e768101 Merge pull request #1 from spinler/spinler-OP940
+openbmc bf2d533 bmcweb branch=OP940 SRCREV bump 93bd52ac1b..0b95b3a1cc
+  bmcweb 9c8099b Include user role in the persistent session data
+  bmcweb 0b95b3a Merge pull request #8 from trajeswaran/sw470484_fix
+openbmc 07377b3 Add Accelerator Interface to GPU Sensors
+openbmc 74e3c8a Merge pull request #10 from santoshpuranik/OP940
+openbmc 99096a0 bmcweb branch=OP940 SRCREV bump 0b95b3a1cc..8b076b8821
+  bmcweb fffcfc2 Some updates to bmcweb logging
+  bmcweb 8b076b8 Merge pull request #10 from santoshpuranik/op940_fork_op940
+Closed issues...
+Insertions and deletions...
+222 insertions
+100 deletions
