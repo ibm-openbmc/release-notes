@@ -1,0 +1,19 @@
+Commits...
+openbmc 448b572 bmcweb branch=OP940 SRCREV bump 8b076b8821..b9cfea24d4
+  bmcweb 4c8ff69 Redfish: GenerateCSR action for HTTPS certificate
+  bmcweb 6bd45e6 Redfish: Extend GenerateCSR action for LDAP certificate collection
+  bmcweb a73744d Merge pull request #13 from devenrao/mine
+  bmcweb 413821e Fixed Accelerator State
+  bmcweb b9cfea2 Merge pull request #14 from santoshpuranik/op940_fork_op940
+openbmc 8453050 phosphor-certificate-manager branch=OP940 SRCREV bump cd30c496c8..5f564a0eb6
+  phosphor-certificate-manager 8dace30 Fix upload signed certificate error through GUI
+  phosphor-certificate-manager d853e0b Generate RSA Private Key file during application startup
+  phosphor-certificate-manager 5f564a0 Merge pull request #2 from devenrao/cert
+openbmc ff738db phosphor-webui branch=OP940 SRCREV bump 15cac146b0..19c8aaa5e9
+  phosphor-webui 9447176 GenerateCSR: Move to 2048 Key Bit Length only
+  phosphor-webui 19c8aaa Merge pull request #1 from gtmills/update-generate-csr-2048-bit-length
+Closed issues...
+Insertions and deletions...
+635 insertions
+223 deletions
+
